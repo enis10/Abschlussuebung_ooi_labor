@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gruppe>
+  <spieler id="0">
+    <name>Player 1</name>
+    <games>64</games>
+    <draws>2</draws>
+    <wins>9</wins>
+    <loses>53</loses>
+  </spieler>
+  <spieler id="1">
+    <name>Alpha Beta</name>
+    <games>46</games>
+    <draws>0</draws>
+    <wins>43</wins>
+    <loses>3</loses>
+  </spieler>
+  <spieler id="2">
+    <name>Blockierer</name>
+    <games>10</games>
+    <draws>0</draws>
+    <wins>3</wins>
+    <loses>7</loses>
+  </spieler>
+  <spieler id="3">
+    <name>Minimax</name>
+    <games>13</games>
+    <draws>0</draws>
+    <wins>11</wins>
+    <loses>2</loses>
+  </spieler>
+  <spieler id="4">
+    <name>Player 2</name>
+    <games>5</games>
+    <draws>0</draws>
+    <wins>2</wins>
+    <loses>3</loses>
+  </spieler>
+  <spieler id="5">
+    <name>Anis</name>
+    <games>5</games>
+    <draws>0</draws>
+    <wins>2</wins>
+    <loses>3</loses>
+  </spieler>
+  <spieler id="6">
+    <name>Djo</name>
+    <games>1</games>
+    <draws>0</draws>
+    <wins>1</wins>
+    <loses>0</loses>
+  </spieler>
+  <spieler id="7">
+    <name>Player test</name>
+    <games>1</games>
+    <draws>0</draws>
+    <wins>0</wins>
+    <loses>1</loses>
+  </spieler>
+  <spieler id="8">
+    <name>Mouldi</name>
+    <games>2</games>
+    <draws>0</draws>
+    <wins>2</wins>
+    <loses>0</loses>
+  </spieler>
+  <spieler id="9">
+    <name>carlos</name>
+    <games>1</games>
+    <draws>0</draws>
+    <wins>1</wins>
+    <loses>0</loses>
+  </spieler>
+  <spieler id="10">
+    <name>vela</name>
+    <games>1</games>
+    <draws>0</draws>
+    <wins>0</wins>
+    <loses>1</loses>
+  </spieler>
+  <spieler id="11">
+    <name>Jordi</name>
+    <games>1</games>
+    <draws>0</draws>
+    <wins>1</wins>
+    <loses>0</loses>
+  </spieler>
+</Gruppe>

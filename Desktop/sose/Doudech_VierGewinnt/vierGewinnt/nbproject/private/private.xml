@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/jdomreader/JdomReader_2.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/RegularBoard.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/VierGewinntClient.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/Utils.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/ARegularGame.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/SettingsConsole.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/Erzaehler.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/Run.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/VierGewinntTest.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/VierGewinntComputerVsComputer.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/VierGewinntServer.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/StrategyAlphaBeta.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/VierGewinntPlayervsPlayer.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/StrategyMinimax.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/Pair.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/IGame.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/Statistics/newJavaFile.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/Statistics/PrintHelp.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/jdomreader/JDOMWriter.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/IRegularGame.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/Statistics/MyStats.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/IGameKI.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/VierGewinnt.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/RegularControl.java</file>
+            <file>file:/Users/Doudech_Ayadi_VierGewinnt/vierGewinnt/src/VierGewinnt/StrategyBlocker.java</file>
+        </group>
+    </open-files>
+</project-private>
